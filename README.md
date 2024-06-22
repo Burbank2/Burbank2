@@ -4,9 +4,9 @@
 
 💻 Tech Stack:
 
-Mobile: Swift, Flutter
+📱 Mobile: Swift, Flutter
 
-Web: HTML, CSS, JavaScript
+🌐 Web: HTML, CSS, JavaScript
 
 🌟 Passionate about crafting seamless user experiences on both web and mobile platforms.
 
